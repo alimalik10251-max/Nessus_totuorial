@@ -76,7 +76,6 @@ Nessus handles system discovery, credential verification, and patch level observ
 To tweak custom variables, choose **Policies** -> **New Policy**, pick your baseline structure, and fine-tune your parameters before locking in the profile.
 
 ---
-
 ## 5. Running Your First Vulnerability Scan
 
 ### Step 1: Define Target and Scope
